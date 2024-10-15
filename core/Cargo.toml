@@ -120,6 +120,3 @@ harness = false
 [[example]]
 name = "integ_runner"
 path = "../tests/runner.rs"
-
-[lints]
-workspace = true
