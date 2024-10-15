@@ -33,5 +33,3 @@ tonic-build = { workspace = true }
 prost-build = "0.13"
 prost-wkt-build = "0.6"
 
-[lints]
-workspace = true
